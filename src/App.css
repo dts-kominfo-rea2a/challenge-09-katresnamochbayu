@@ -1,4 +1,7 @@
 .App {
+  background-color: rgb(253, 239, 221);
   text-align: center;
   display: flex;
+  flex-direction: column;
+  gap: 2em;
 }

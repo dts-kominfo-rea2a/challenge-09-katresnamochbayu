@@ -1,0 +1,19 @@
+.Contact {
+    background-color: rgb(255, 202, 159);
+    display: flex;
+    width: 35%;
+    border-radius: 3em;
+    align-items: center;
+    padding: 1em;
+    margin: auto;
+}
+
+.foto {
+    max-width: 160px;
+    border-radius: 50%;
+    flex-basis: 25%;
+}
+
+.Detail {
+    flex-basis: 90%;
+}
